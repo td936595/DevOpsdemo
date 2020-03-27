@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hi This is Sankika"
 echo "hello world"
 a=12
 b=15
